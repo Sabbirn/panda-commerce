@@ -22,6 +22,7 @@
 .cat1, .cat2, .cat3{
     padding: 10px 30px;
     border-radius: 10px;
+    margin: 5px 0;
 }
 .cat1{
     background: linear-gradient(90deg, rgba(255,149,0,1) 19%, rgba(255,235,0,1) 100%);
@@ -37,4 +38,13 @@
 }
 .categories img{
     width: 100px;
+}
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.card-footer{
+    background-color: #ffff;
+    border-top: none;
 }
