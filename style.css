@@ -48,3 +48,15 @@
     background-color: #ffff;
     border-top: none;
 }
+#Subscribe{
+    height: 300px;
+}
+#Subscribe h6{
+    color: gray;
+}
+footer{
+    text-align: center;
+}
+#Categories a{
+    text-decoration: none;
+}
